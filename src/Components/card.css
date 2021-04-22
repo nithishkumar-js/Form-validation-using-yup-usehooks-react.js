@@ -1,0 +1,73 @@
+.card1
+{
+     width: 500px;
+     height:250px;
+     background-image:url("https://png.pngtree.com/thumb_back/fh260/back_our/20190623/ourmid/pngtree-blue-geometric-business-card-background-image_239795.jpg");
+     background-repeat: no-repeat ;
+     background-size: cover;
+     margin-top: 30px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.card2
+{
+     width: 500px;
+     height:250px;
+     background-image:url("https://png.pngtree.com/thumb_back/fh260/back_our/20190623/ourmid/pngtree-blue-gradient-geometric-flat-business-card-background-image_243088.jpg");
+     background-repeat: no-repeat ;
+     background-size: cover;
+     margin-top: 30px;
+}
+
+.containers
+{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+.card2_text1
+{
+     font-size: 18px;
+     margin-top: 15px;
+     font-weight: bolder;
+}
+.card2_text
+{
+     font-family: 'RocknRoll One', sans-serif;
+     font-size: 10px;
+     margin-top: 12px;
+     margin-left: 5px;
+     font-weight: bolder;
+}
+.card1_text1
+{
+     font-family: 'RocknRoll One', sans-serif;
+     font-size: 28px;
+     font-weight: bolder;
+     margin-top: 20PX;
+}
+.card1_text2
+{
+     font-family: 'RocknRoll One', sans-serif;
+     font-size:16px;
+     font-weight: bolder;
+}
+.card1_text
+{
+     font-family: 'RocknRoll One', sans-serif;
+     font-size:30px;
+     font-weight: bolder;
+}
+.card_text3
+{
+     font-family: 'RocknRoll One', sans-serif;
+     font-size:14px;
+     font-weight: bolder;
+}
+.card_layout
+{
+     box-shadow: 0 10px 6px -6px #777;
+     border-radius:5px;
+}

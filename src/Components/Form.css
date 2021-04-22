@@ -1,0 +1,14 @@
+.btn
+{
+     margin-top: 10px;
+     width: 150px;
+     margin-left: 12px;
+     margin-bottom: 10px;
+}
+
+.form_layout
+{
+               box-shadow: 0 10px 6px -6px #777;
+               border-radius: 5px;
+               padding-top: 10px;
+}
